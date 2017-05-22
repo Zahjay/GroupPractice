@@ -11,3 +11,9 @@ header h1 {
 header h2 {
   font-style: italic;
 }
+
+.Nav{
+  background:black;
+  color:white;
+  
+}
