@@ -4,9 +4,9 @@ class Nav extends Component{
 render(){
   return(
     <ul className="Nav">
-      <li>Home</li>
-       <li>About</li>
-        <li>Main</li>
+      <li className="li">Home</li>
+       <li className="li">About</li>
+        <li className="li">Main</li>
     </ul>
 
     );

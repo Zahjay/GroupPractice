@@ -15,5 +15,11 @@ header h2 {
 .Nav{
   background:black;
   color:white;
-  
+   text-align: center;
 }
+ .li{
+   display: inline-block;
+   padding: 25px; 
+   font-size:20px;
+   font-weight:bold;
+ }
