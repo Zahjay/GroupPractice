@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
 class Nav extends Component{
-return(){
-  render(
+render(){
+  return(
     <ul className="Nav">
-      <li> D</li>
-       <li>J</li>
-        <li>Z </li>
+      <li>Home</li>
+       <li>About</li>
+        <li>Main</li>
     </ul>
 
     );
